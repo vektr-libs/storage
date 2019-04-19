@@ -1,0 +1,8 @@
+{
+  "browserify": {
+    "dist/browserified.js": "browserify.js"
+  },
+  "dependencies": {
+    "js" : ["vektr:util:lib", "vektr:math:lib","vektr:common:lib","allex:hierarchymixins:lib"]
+  }
+}
